@@ -1,0 +1,152 @@
+[
+    {
+        "name": "atomiks",
+        "username": null,
+        "repo": null,
+        "repoDescription": "Tooltip, popover, dropdown, and menu library"
+    },
+    {
+        "name": "Simon Lydell",
+        "username": "lydell",
+        "repo": "lydell",
+        "repoDescription": "Easy autofixable import sorting."
+    },
+    {
+        "name": "Zeno Rocha",
+        "username": "zenorocha",
+        "repo": "zenorocha",
+        "repoDescription": "✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋"
+    },
+    {
+        "name": "Adhiraj Singh",
+        "username": "adiwajshing",
+        "repo": "adiwajshing",
+        "repoDescription": "Lightweight full-featured WhatsApp Web + Multi-Device API"
+    },
+    {
+        "name": "Rob Garrison",
+        "username": "Mottie",
+        "repo": "Mottie",
+        "repoDescription": "Userscripts to add functionality to GitHub"
+    },
+    {
+        "name": "Benjamin E. Coe",
+        "username": "bcoe",
+        "repo": "bcoe",
+        "repoDescription": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+        "name": "Ben Firshman",
+        "username": "bfirsh",
+        "repo": "bfirsh",
+        "repoDescription": "A JavaScript NES emulator."
+    },
+    {
+        "name": "Nelson",
+        "username": "nelsonic",
+        "repo": "nelsonic",
+        "repoDescription": "🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡"
+    },
+    {
+        "name": "Zeke Sikelianos",
+        "username": "zeke",
+        "repo": "zeke",
+        "repoDescription": "This is the open-source repo for docs.github.com."
+    },
+    {
+        "name": "Rod Vagg",
+        "username": "rvagg",
+        "repo": "rvagg",
+        "repoDescription": "Node.js web handler / middleware for processing GitHub Webhooks"
+    },
+    {
+        "name": "Steven Lambert",
+        "username": "straker",
+        "repo": "straker",
+        "repoDescription": "Proposal to improve the DOM creation API so developers have a cleaner, simpler, and secure interface to DOM creation and manipulation."
+    },
+    {
+        "name": "leejimqiu",
+        "username": "LeeJim",
+        "repo": "LeeJim",
+        "repoDescription": "程序员做菜指南 for Miniprogram，将程序员精神贯彻到底"
+    },
+    {
+        "name": "Kent C. Dodds",
+        "username": "kentcdodds",
+        "repo": "kentcdodds",
+        "repoDescription": "Material for my React Fundamentals Workshop"
+    },
+    {
+        "name": "Olivier Tassinari",
+        "username": "oliviertassinari",
+        "repo": "oliviertassinari",
+        "repoDescription": "A React component for swipeable views. ❄️"
+    },
+    {
+        "name": "Moaaz Sidat",
+        "username": "moaazsidat",
+        "repo": "moaazsidat",
+        "repoDescription": "A QR code scanner component for React Native."
+    },
+    {
+        "name": "Asif Saif Uddin",
+        "username": "auvipy",
+        "repo": "auvipy",
+        "repoDescription": "Under heavy development now: Real time Celery monitoring with ASGI 3.0+ django 3.2"
+    },
+    {
+        "name": "Simon L.",
+        "username": "szaimen",
+        "repo": "szaimen",
+        "repoDescription": "Nextcloud-NAS-Guide - Instructions how to set up a home server"
+    },
+    {
+        "name": "Domenic Denicola",
+        "username": "domenic",
+        "repo": "domenic",
+        "repoDescription": "The ES6 promises spec, as per September 2013 TC39 meeting"
+    },
+    {
+        "name": "Ika",
+        "username": "ikatyang",
+        "repo": "ikatyang",
+        "repoDescription": "A markdown version emoji cheat sheet"
+    },
+    {
+        "name": "Rich Harris",
+        "username": "Rich-Harris",
+        "repo": "Rich-Harris",
+        "repoDescription": "Straightforward project scaffolding"
+    },
+    {
+        "name": "Robin Berjon",
+        "username": "darobin",
+        "repo": "darobin",
+        "repoDescription": "Simple command to backup a Notion workspace"
+    },
+    {
+        "name": "Diego Muracciole",
+        "username": "diegomura",
+        "repo": "diegomura",
+        "repoDescription": "📄 Create PDF files using React"
+    },
+    {
+        "name": "Tim Paine",
+        "username": "timkpaine",
+        "repo": "timkpaine",
+        "repoDescription": "View html as an embedded iframe in JupyterLab"
+    },
+    {
+        "name": "Brian Holt",
+        "username": "btholt",
+        "repo": "btholt",
+        "repoDescription": "The Complete Intro to React, as taught by Brian Holt on Frontend Masters"
+    },
+    {
+        "name": "Jan Lehnardt",
+        "username": "janl",
+        "repo": "janl",
+        "repoDescription": "Minimal templating with {{mustaches}} in JavaScript"
+    }
+]
