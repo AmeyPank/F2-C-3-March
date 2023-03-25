@@ -85,7 +85,7 @@ const trendingURL = "https://github.com/trending";
     if (err) {
       console.log(err);
     } else {
-      console.log("Data saved to data2.json");
+      console.log("Data saved to data.json");
     }
   });
 
